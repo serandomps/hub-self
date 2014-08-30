@@ -1,0 +1,13 @@
+{
+    "name": "hub-self",
+    "description": "hub-self component",
+    "scripts": ["index.js"],
+    "styles": ["styles.css"],
+    "main": "index.js",
+    "templates": ["template.html"],
+    "dependencies": {
+        "serandomps/dust": "master",
+        "serandomps/serand": "master",
+        "serandomps/loading": "master"
+    }
+}
